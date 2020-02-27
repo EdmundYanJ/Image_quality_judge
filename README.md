@@ -9,8 +9,8 @@ In addition, please add the project folder to PYTHONPATH and `pip install` the f
  - `numpy`<br>
  - `cv2`<br>
 ## Data
-1.从[QA4Camera](https://qa4camera.github.io/)下载数据集，并保存在image文件夹下。<br>
-2.数据集为1500张分别由15个手机拍摄的图片，共100个场景，每个手机在一个场景中拍一张，由专家从曝光/颜色/纹理/噪声四个方面排名。
+1. 从[QA4Camera](https://qa4camera.github.io/)下载数据集，并保存在image文件夹下。<br>
+2. 数据集为1500张分别由15个手机拍摄的图片，共100个场景，每个手机在一个场景中拍一张，由专家从曝光/颜色/纹理/噪声四个方面排名。
 ## Goal
 目标是使用算法自动对图片排名，最终得出不同手机在不同场景下拍摄的优劣。
 ## Training&Test
