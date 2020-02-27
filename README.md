@@ -1,7 +1,9 @@
 # Image_quality_judge
 ## Dependencies
- - `python3.7`<br>
- - `pytorch1.4`<br>
+python 3.6
+
+Pytorch 0.4.1
+
  - `pandas`<br>
  - `numpy`<br>
  - `cv2`<br>
