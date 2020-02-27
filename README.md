@@ -4,6 +4,7 @@ python 3.6
 
 Pytorch 0.4.1
 
+In addition, please add the project folder to PYTHONPATH and `pip install` the following packages:
  - `pandas`<br>
  - `numpy`<br>
  - `cv2`<br>
